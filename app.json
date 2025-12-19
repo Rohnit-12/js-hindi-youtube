@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "96228c9e-c5b5-40c5-82cc-6796fb1f587d"
+      }
+    },
+    "android": {
+      "package": "com.rohnit12.smartsightmobile"
+    }
+  }
+}
